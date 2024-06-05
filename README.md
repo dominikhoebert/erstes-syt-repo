@@ -14,4 +14,6 @@ Mit `git clone`können wir ein Remote Repositore lokal klonen und so verwenden.
 
 Viele IDEs beitzen ein git plugin zum managen von lokalen und remote repositories.
 
+## GitHub desktop
 
+Github Desktop ist ein praktisches Tool zum managen von repos.
