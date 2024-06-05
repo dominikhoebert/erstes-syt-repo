@@ -10,3 +10,8 @@ und so unser Repo bearbeiten.
 
 Mit `git clone`können wir ein Remote Repositore lokal klonen und so verwenden.
 
+## git plugin in IDE
+
+Viele IDEs beitzen ein git plugin zum managen von lokalen und remote repositories.
+
+
